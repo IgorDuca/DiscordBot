@@ -1,0 +1,4 @@
+O que você precisa alterar para o bot funcionar?
+O seu token e o prefixo (se você quiser mudar) no arquivo config.json
+Os outros detalhes do bot foram apresentados no vídeo!
+Link do vídeo: https://youtu.be/oC4_egzEpPg
